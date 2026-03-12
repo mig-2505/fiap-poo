@@ -2,7 +2,7 @@ package br.com.fiap.main;
 
 import br.com.fiap.model.Mochila;
 
-public class SistemaPrincipal {
+public class TesteMochila {
 
 	public static void main(String[] args) {
 
