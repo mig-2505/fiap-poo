@@ -16,6 +16,12 @@ public class Mochila {
 		this.setFechado(fechado);
 	}
 	
+	public Mochila(String material, int tamanho, double peso) {
+		this.setTamanho(tamanho);
+		this.setMaterial(material);
+		this.setPeso(peso);
+	}
+	
 	public int getTamanho() {
 		return this.tamanho;
 	}
